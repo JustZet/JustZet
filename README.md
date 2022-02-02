@@ -3,7 +3,7 @@
 ####
 
 - 🌍 Often active
-- 🌱 Learning all about **HTML/CSS/PHP/SQL programming languages**
+- 🌱 Learning all about **HTML/CSS/PHP/SQL/GO programming languages**
 - 💬 Ping me about **Copying the readme of [Harm-smits](https://github.com/harm-smits/)**
 - ⚡️ Hobbies: Programing, gaming & music listening.
 
