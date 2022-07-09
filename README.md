@@ -26,4 +26,4 @@
 <br>
 
 
-<a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="https://discord.gg/TbpjY89AtU" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
