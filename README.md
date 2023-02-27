@@ -3,7 +3,7 @@
 ####
 
 - 🌍 Often active
-- 🌱 Knowladge in **HTML/CSS/PHP/SQL/JAVASCRIPT/PYTHON/MONGODB programming languages**
+- 🌱 Knowladge in **HTML/CSS/PHP/SQL/JAVASCRIPT/PYTHON/MONGODB/FLUTTER/DART/JAVA** programming languages
 - 💬 Ping me about **Copying the readme of [Harm-smits](https://github.com/harm-smits/)**
 - ⚡️ Hobbies: Programing, gaming & music listening.
 - 📝 My private commits [here](https://prnt.sc/71RtapaD7F-a)
